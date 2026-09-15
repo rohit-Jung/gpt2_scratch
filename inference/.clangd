@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -I/home/rokshh/Documents/coding/projects/low-level/gpt2/inference/include
